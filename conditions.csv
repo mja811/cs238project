@@ -1,0 +1,1561 @@
+stadium_name,week_number,condition
+Acrisure Stadium,1,snowy
+Acrisure Stadium,2,snowy
+Acrisure Stadium,3,snowy
+Acrisure Stadium,4,rainy
+Acrisure Stadium,5,cloudy
+Acrisure Stadium,6,cloudy
+Acrisure Stadium,7,snowy
+Acrisure Stadium,8,partly_cloudy
+Acrisure Stadium,9,rainy
+Acrisure Stadium,10,rainy
+Acrisure Stadium,11,cloudy
+Acrisure Stadium,12,snowy
+Acrisure Stadium,13,cloudy
+Acrisure Stadium,14,rainy
+Acrisure Stadium,15,drizzle
+Acrisure Stadium,16,rainy
+Acrisure Stadium,17,drizzle
+Acrisure Stadium,18,cloudy
+Acrisure Stadium,19,rainy
+Acrisure Stadium,20,drizzle
+Acrisure Stadium,21,rainy
+Acrisure Stadium,22,rainy
+Acrisure Stadium,23,cloudy
+Acrisure Stadium,24,cloudy
+Acrisure Stadium,25,drizzle
+Acrisure Stadium,26,cloudy
+Acrisure Stadium,27,rainy
+Acrisure Stadium,28,cloudy
+Acrisure Stadium,29,cloudy
+Acrisure Stadium,30,drizzle
+Acrisure Stadium,31,rainy
+Acrisure Stadium,32,cloudy
+Acrisure Stadium,33,drizzle
+Acrisure Stadium,34,cloudy
+Acrisure Stadium,35,drizzle
+Acrisure Stadium,36,sunny
+Acrisure Stadium,37,cloudy
+Acrisure Stadium,38,cloudy
+Acrisure Stadium,39,rainy
+Acrisure Stadium,40,rainy
+Acrisure Stadium,41,cloudy
+Acrisure Stadium,42,drizzle
+Acrisure Stadium,43,cloudy
+Acrisure Stadium,44,cloudy
+Acrisure Stadium,45,cloudy
+Acrisure Stadium,46,cloudy
+Acrisure Stadium,47,cloudy
+Acrisure Stadium,48,drizzle
+Acrisure Stadium,49,snowy
+Acrisure Stadium,50,rainy
+Acrisure Stadium,51,snowy
+Acrisure Stadium,52,cloudy
+Allegiant Stadium,1,cloudy
+Allegiant Stadium,2,cloudy
+Allegiant Stadium,3,cloudy
+Allegiant Stadium,4,cloudy
+Allegiant Stadium,5,cloudy
+Allegiant Stadium,6,rainy
+Allegiant Stadium,7,cloudy
+Allegiant Stadium,8,cloudy
+Allegiant Stadium,9,cloudy
+Allegiant Stadium,10,cloudy
+Allegiant Stadium,11,cloudy
+Allegiant Stadium,12,cloudy
+Allegiant Stadium,13,cloudy
+Allegiant Stadium,14,cloudy
+Allegiant Stadium,15,cloudy
+Allegiant Stadium,16,cloudy
+Allegiant Stadium,17,sunny
+Allegiant Stadium,18,sunny
+Allegiant Stadium,19,cloudy
+Allegiant Stadium,20,cloudy
+Allegiant Stadium,21,sunny
+Allegiant Stadium,22,sunny
+Allegiant Stadium,23,cloudy
+Allegiant Stadium,24,sunny
+Allegiant Stadium,25,cloudy
+Allegiant Stadium,26,sunny
+Allegiant Stadium,27,sunny
+Allegiant Stadium,28,cloudy
+Allegiant Stadium,29,cloudy
+Allegiant Stadium,30,sunny
+Allegiant Stadium,31,sunny
+Allegiant Stadium,32,cloudy
+Allegiant Stadium,33,sunny
+Allegiant Stadium,34,sunny
+Allegiant Stadium,35,sunny
+Allegiant Stadium,36,sunny
+Allegiant Stadium,37,sunny
+Allegiant Stadium,38,sunny
+Allegiant Stadium,39,sunny
+Allegiant Stadium,40,sunny
+Allegiant Stadium,41,cloudy
+Allegiant Stadium,42,cloudy
+Allegiant Stadium,43,cloudy
+Allegiant Stadium,44,cloudy
+Allegiant Stadium,45,sunny
+Allegiant Stadium,46,cloudy
+Allegiant Stadium,47,cloudy
+Allegiant Stadium,48,cloudy
+Allegiant Stadium,49,cloudy
+Allegiant Stadium,50,cloudy
+Allegiant Stadium,51,cloudy
+Allegiant Stadium,52,cloudy
+Arrowhead Stadium,1,cloudy
+Arrowhead Stadium,2,snowy
+Arrowhead Stadium,3,cloudy
+Arrowhead Stadium,4,rainy
+Arrowhead Stadium,5,cloudy
+Arrowhead Stadium,6,cloudy
+Arrowhead Stadium,7,cloudy
+Arrowhead Stadium,8,sunny
+Arrowhead Stadium,9,snowy
+Arrowhead Stadium,10,rainy
+Arrowhead Stadium,11,drizzle
+Arrowhead Stadium,12,sunny
+Arrowhead Stadium,13,cloudy
+Arrowhead Stadium,14,drizzle
+Arrowhead Stadium,15,cloudy
+Arrowhead Stadium,16,drizzle
+Arrowhead Stadium,17,rainy
+Arrowhead Stadium,18,rainy
+Arrowhead Stadium,19,rainy
+Arrowhead Stadium,20,drizzle
+Arrowhead Stadium,21,rainy
+Arrowhead Stadium,22,drizzle
+Arrowhead Stadium,23,drizzle
+Arrowhead Stadium,24,cloudy
+Arrowhead Stadium,25,drizzle
+Arrowhead Stadium,26,cloudy
+Arrowhead Stadium,27,rainy
+Arrowhead Stadium,28,drizzle
+Arrowhead Stadium,29,cloudy
+Arrowhead Stadium,30,drizzle
+Arrowhead Stadium,31,sunny
+Arrowhead Stadium,32,cloudy
+Arrowhead Stadium,33,rainy
+Arrowhead Stadium,34,cloudy
+Arrowhead Stadium,35,drizzle
+Arrowhead Stadium,36,sunny
+Arrowhead Stadium,37,cloudy
+Arrowhead Stadium,38,cloudy
+Arrowhead Stadium,39,sunny
+Arrowhead Stadium,40,sunny
+Arrowhead Stadium,41,cloudy
+Arrowhead Stadium,42,cloudy
+Arrowhead Stadium,43,cloudy
+Arrowhead Stadium,44,rainy
+Arrowhead Stadium,45,cloudy
+Arrowhead Stadium,46,sunny
+Arrowhead Stadium,47,cloudy
+Arrowhead Stadium,48,cloudy
+Arrowhead Stadium,49,sunny
+Arrowhead Stadium,50,cloudy
+Arrowhead Stadium,51,cloudy
+Arrowhead Stadium,52,cloudy
+AT&T Stadium,1,sunny
+AT&T Stadium,2,cloudy
+AT&T Stadium,3,cloudy
+AT&T Stadium,4,rainy
+AT&T Stadium,5,cloudy
+AT&T Stadium,6,cloudy
+AT&T Stadium,7,cloudy
+AT&T Stadium,8,cloudy
+AT&T Stadium,9,cloudy
+AT&T Stadium,10,cloudy
+AT&T Stadium,11,rainy
+AT&T Stadium,12,cloudy
+AT&T Stadium,13,cloudy
+AT&T Stadium,14,cloudy
+AT&T Stadium,15,cloudy
+AT&T Stadium,16,drizzle
+AT&T Stadium,17,rainy
+AT&T Stadium,18,drizzle
+AT&T Stadium,19,rainy
+AT&T Stadium,20,sunny
+AT&T Stadium,21,rainy
+AT&T Stadium,22,rainy
+AT&T Stadium,23,cloudy
+AT&T Stadium,24,rainy
+AT&T Stadium,25,drizzle
+AT&T Stadium,26,cloudy
+AT&T Stadium,27,cloudy
+AT&T Stadium,28,partly_cloudy
+AT&T Stadium,29,cloudy
+AT&T Stadium,30,drizzle
+AT&T Stadium,31,cloudy
+AT&T Stadium,32,cloudy
+AT&T Stadium,33,cloudy
+AT&T Stadium,34,cloudy
+AT&T Stadium,35,drizzle
+AT&T Stadium,36,drizzle
+AT&T Stadium,37,sunny
+AT&T Stadium,38,sunny
+AT&T Stadium,39,sunny
+AT&T Stadium,40,sunny
+AT&T Stadium,41,sunny
+AT&T Stadium,42,sunny
+AT&T Stadium,43,sunny
+AT&T Stadium,44,drizzle
+AT&T Stadium,45,rainy
+AT&T Stadium,46,cloudy
+AT&T Stadium,47,sunny
+AT&T Stadium,48,cloudy
+AT&T Stadium,49,rainy
+AT&T Stadium,50,cloudy
+AT&T Stadium,51,drizzle
+AT&T Stadium,52,cloudy
+Bank of America Stadium,1,cloudy
+Bank of America Stadium,2,cloudy
+Bank of America Stadium,3,cloudy
+Bank of America Stadium,4,drizzle
+Bank of America Stadium,5,cloudy
+Bank of America Stadium,6,cloudy
+Bank of America Stadium,7,cloudy
+Bank of America Stadium,8,cloudy
+Bank of America Stadium,9,cloudy
+Bank of America Stadium,10,drizzle
+Bank of America Stadium,11,cloudy
+Bank of America Stadium,12,sunny
+Bank of America Stadium,13,cloudy
+Bank of America Stadium,14,cloudy
+Bank of America Stadium,15,drizzle
+Bank of America Stadium,16,cloudy
+Bank of America Stadium,17,cloudy
+Bank of America Stadium,18,sunny
+Bank of America Stadium,19,drizzle
+Bank of America Stadium,20,rainy
+Bank of America Stadium,21,cloudy
+Bank of America Stadium,22,cloudy
+Bank of America Stadium,23,drizzle
+Bank of America Stadium,24,cloudy
+Bank of America Stadium,25,cloudy
+Bank of America Stadium,26,drizzle
+Bank of America Stadium,27,cloudy
+Bank of America Stadium,28,drizzle
+Bank of America Stadium,29,rainy
+Bank of America Stadium,30,drizzle
+Bank of America Stadium,31,drizzle
+Bank of America Stadium,32,rainy
+Bank of America Stadium,33,drizzle
+Bank of America Stadium,34,sunny
+Bank of America Stadium,35,cloudy
+Bank of America Stadium,36,cloudy
+Bank of America Stadium,37,drizzle
+Bank of America Stadium,38,drizzle
+Bank of America Stadium,39,rainy
+Bank of America Stadium,40,drizzle
+Bank of America Stadium,41,sunny
+Bank of America Stadium,42,sunny
+Bank of America Stadium,43,sunny
+Bank of America Stadium,44,cloudy
+Bank of America Stadium,45,rainy
+Bank of America Stadium,46,cloudy
+Bank of America Stadium,47,cloudy
+Bank of America Stadium,48,cloudy
+Bank of America Stadium,49,cloudy
+Bank of America Stadium,50,rainy
+Bank of America Stadium,51,cloudy
+Bank of America Stadium,52,cloudy
+Caesars Superdome,1,cloudy
+Caesars Superdome,2,cloudy
+Caesars Superdome,3,cloudy
+Caesars Superdome,4,rainy
+Caesars Superdome,5,cloudy
+Caesars Superdome,6,drizzle
+Caesars Superdome,7,cloudy
+Caesars Superdome,8,sunny
+Caesars Superdome,9,rainy
+Caesars Superdome,10,rainy
+Caesars Superdome,11,drizzle
+Caesars Superdome,12,cloudy
+Caesars Superdome,13,cloudy
+Caesars Superdome,14,cloudy
+Caesars Superdome,15,cloudy
+Caesars Superdome,16,drizzle
+Caesars Superdome,17,cloudy
+Caesars Superdome,18,drizzle
+Caesars Superdome,19,drizzle
+Caesars Superdome,20,rainy
+Caesars Superdome,21,cloudy
+Caesars Superdome,22,rainy
+Caesars Superdome,23,drizzle
+Caesars Superdome,24,drizzle
+Caesars Superdome,25,drizzle
+Caesars Superdome,26,drizzle
+Caesars Superdome,27,rainy
+Caesars Superdome,28,rainy
+Caesars Superdome,29,rainy
+Caesars Superdome,30,rainy
+Caesars Superdome,31,drizzle
+Caesars Superdome,32,sunny
+Caesars Superdome,33,drizzle
+Caesars Superdome,34,drizzle
+Caesars Superdome,35,rainy
+Caesars Superdome,36,rainy
+Caesars Superdome,37,drizzle
+Caesars Superdome,38,drizzle
+Caesars Superdome,39,sunny
+Caesars Superdome,40,cloudy
+Caesars Superdome,41,sunny
+Caesars Superdome,42,sunny
+Caesars Superdome,43,sunny
+Caesars Superdome,44,drizzle
+Caesars Superdome,45,drizzle
+Caesars Superdome,46,rainy
+Caesars Superdome,47,sunny
+Caesars Superdome,48,cloudy
+Caesars Superdome,49,cloudy
+Caesars Superdome,50,rainy
+Caesars Superdome,51,sunny
+Caesars Superdome,52,cloudy
+Empower Field at Mile High,1,cloudy
+Empower Field at Mile High,2,snowy
+Empower Field at Mile High,3,cloudy
+Empower Field at Mile High,4,cloudy
+Empower Field at Mile High,5,cloudy
+Empower Field at Mile High,6,cloudy
+Empower Field at Mile High,7,cloudy
+Empower Field at Mile High,8,cloudy
+Empower Field at Mile High,9,cloudy
+Empower Field at Mile High,10,cloudy
+Empower Field at Mile High,11,cloudy
+Empower Field at Mile High,12,cloudy
+Empower Field at Mile High,13,cloudy
+Empower Field at Mile High,14,cloudy
+Empower Field at Mile High,15,cloudy
+Empower Field at Mile High,16,snowy
+Empower Field at Mile High,17,drizzle
+Empower Field at Mile High,18,cloudy
+Empower Field at Mile High,19,drizzle
+Empower Field at Mile High,20,partly_cloudy
+Empower Field at Mile High,21,cloudy
+Empower Field at Mile High,22,cloudy
+Empower Field at Mile High,23,cloudy
+Empower Field at Mile High,24,drizzle
+Empower Field at Mile High,25,cloudy
+Empower Field at Mile High,26,cloudy
+Empower Field at Mile High,27,cloudy
+Empower Field at Mile High,28,cloudy
+Empower Field at Mile High,29,drizzle
+Empower Field at Mile High,30,cloudy
+Empower Field at Mile High,31,cloudy
+Empower Field at Mile High,32,drizzle
+Empower Field at Mile High,33,rainy
+Empower Field at Mile High,34,drizzle
+Empower Field at Mile High,35,cloudy
+Empower Field at Mile High,36,cloudy
+Empower Field at Mile High,37,cloudy
+Empower Field at Mile High,38,cloudy
+Empower Field at Mile High,39,sunny
+Empower Field at Mile High,40,partly_cloudy
+Empower Field at Mile High,41,cloudy
+Empower Field at Mile High,42,cloudy
+Empower Field at Mile High,43,cloudy
+Empower Field at Mile High,44,cloudy
+Empower Field at Mile High,45,snowy
+Empower Field at Mile High,46,cloudy
+Empower Field at Mile High,47,cloudy
+Empower Field at Mile High,48,cloudy
+Empower Field at Mile High,49,sunny
+Empower Field at Mile High,50,cloudy
+Empower Field at Mile High,51,cloudy
+Empower Field at Mile High,52,cloudy
+EverBank Stadium,1,cloudy
+EverBank Stadium,2,cloudy
+EverBank Stadium,3,cloudy
+EverBank Stadium,4,drizzle
+EverBank Stadium,5,cloudy
+EverBank Stadium,6,cloudy
+EverBank Stadium,7,cloudy
+EverBank Stadium,8,sunny
+EverBank Stadium,9,cloudy
+EverBank Stadium,10,rainy
+EverBank Stadium,11,cloudy
+EverBank Stadium,12,cloudy
+EverBank Stadium,13,cloudy
+EverBank Stadium,14,cloudy
+EverBank Stadium,15,cloudy
+EverBank Stadium,16,cloudy
+EverBank Stadium,17,cloudy
+EverBank Stadium,18,drizzle
+EverBank Stadium,19,drizzle
+EverBank Stadium,20,drizzle
+EverBank Stadium,21,drizzle
+EverBank Stadium,22,cloudy
+EverBank Stadium,23,cloudy
+EverBank Stadium,24,drizzle
+EverBank Stadium,25,drizzle
+EverBank Stadium,26,rainy
+EverBank Stadium,27,drizzle
+EverBank Stadium,28,rainy
+EverBank Stadium,29,rainy
+EverBank Stadium,30,rainy
+EverBank Stadium,31,rainy
+EverBank Stadium,32,rainy
+EverBank Stadium,33,drizzle
+EverBank Stadium,34,rainy
+EverBank Stadium,35,drizzle
+EverBank Stadium,36,rainy
+EverBank Stadium,37,rainy
+EverBank Stadium,38,drizzle
+EverBank Stadium,39,drizzle
+EverBank Stadium,40,rainy
+EverBank Stadium,41,rainy
+EverBank Stadium,42,cloudy
+EverBank Stadium,43,drizzle
+EverBank Stadium,44,drizzle
+EverBank Stadium,45,drizzle
+EverBank Stadium,46,drizzle
+EverBank Stadium,47,sunny
+EverBank Stadium,48,cloudy
+EverBank Stadium,49,sunny
+EverBank Stadium,50,drizzle
+EverBank Stadium,51,cloudy
+EverBank Stadium,52,drizzle
+Ford Field,1,snowy
+Ford Field,2,snowy
+Ford Field,3,cloudy
+Ford Field,4,snowy
+Ford Field,5,cloudy
+Ford Field,6,cloudy
+Ford Field,7,cloudy
+Ford Field,8,cloudy
+Ford Field,9,cloudy
+Ford Field,10,cloudy
+Ford Field,11,cloudy
+Ford Field,12,cloudy
+Ford Field,13,cloudy
+Ford Field,14,cloudy
+Ford Field,15,drizzle
+Ford Field,16,cloudy
+Ford Field,17,rainy
+Ford Field,18,rainy
+Ford Field,19,cloudy
+Ford Field,20,drizzle
+Ford Field,21,drizzle
+Ford Field,22,rainy
+Ford Field,23,drizzle
+Ford Field,24,cloudy
+Ford Field,25,drizzle
+Ford Field,26,cloudy
+Ford Field,27,cloudy
+Ford Field,28,cloudy
+Ford Field,29,drizzle
+Ford Field,30,drizzle
+Ford Field,31,drizzle
+Ford Field,32,cloudy
+Ford Field,33,rainy
+Ford Field,34,cloudy
+Ford Field,35,drizzle
+Ford Field,36,cloudy
+Ford Field,37,sunny
+Ford Field,38,sunny
+Ford Field,39,drizzle
+Ford Field,40,cloudy
+Ford Field,41,cloudy
+Ford Field,42,sunny
+Ford Field,43,cloudy
+Ford Field,44,cloudy
+Ford Field,45,cloudy
+Ford Field,46,cloudy
+Ford Field,47,drizzle
+Ford Field,48,snowy
+Ford Field,49,cloudy
+Ford Field,50,cloudy
+Ford Field,51,cloudy
+Ford Field,52,cloudy
+Gillette Stadium,1,snowy
+Gillette Stadium,2,cloudy
+Gillette Stadium,3,snowy
+Gillette Stadium,4,snowy
+Gillette Stadium,5,cloudy
+Gillette Stadium,6,cloudy
+Gillette Stadium,7,cloudy
+Gillette Stadium,8,sunny
+Gillette Stadium,9,rainy
+Gillette Stadium,10,rainy
+Gillette Stadium,11,cloudy
+Gillette Stadium,12,cloudy
+Gillette Stadium,13,cloudy
+Gillette Stadium,14,cloudy
+Gillette Stadium,15,cloudy
+Gillette Stadium,16,cloudy
+Gillette Stadium,17,cloudy
+Gillette Stadium,18,rainy
+Gillette Stadium,19,drizzle
+Gillette Stadium,20,cloudy
+Gillette Stadium,21,cloudy
+Gillette Stadium,22,rainy
+Gillette Stadium,23,cloudy
+Gillette Stadium,24,cloudy
+Gillette Stadium,25,drizzle
+Gillette Stadium,26,drizzle
+Gillette Stadium,27,drizzle
+Gillette Stadium,28,drizzle
+Gillette Stadium,29,cloudy
+Gillette Stadium,30,rainy
+Gillette Stadium,31,rainy
+Gillette Stadium,32,rainy
+Gillette Stadium,33,drizzle
+Gillette Stadium,34,cloudy
+Gillette Stadium,35,drizzle
+Gillette Stadium,36,sunny
+Gillette Stadium,37,partly_cloudy
+Gillette Stadium,38,cloudy
+Gillette Stadium,39,drizzle
+Gillette Stadium,40,cloudy
+Gillette Stadium,41,cloudy
+Gillette Stadium,42,cloudy
+Gillette Stadium,43,cloudy
+Gillette Stadium,44,drizzle
+Gillette Stadium,45,cloudy
+Gillette Stadium,46,sunny
+Gillette Stadium,47,cloudy
+Gillette Stadium,48,cloudy
+Gillette Stadium,49,snowy
+Gillette Stadium,50,rainy
+Gillette Stadium,51,rainy
+Gillette Stadium,52,cloudy
+Hard Rock Stadium,1,drizzle
+Hard Rock Stadium,2,drizzle
+Hard Rock Stadium,3,drizzle
+Hard Rock Stadium,4,drizzle
+Hard Rock Stadium,5,cloudy
+Hard Rock Stadium,6,drizzle
+Hard Rock Stadium,7,cloudy
+Hard Rock Stadium,8,sunny
+Hard Rock Stadium,9,drizzle
+Hard Rock Stadium,10,drizzle
+Hard Rock Stadium,11,cloudy
+Hard Rock Stadium,12,drizzle
+Hard Rock Stadium,13,drizzle
+Hard Rock Stadium,14,cloudy
+Hard Rock Stadium,15,cloudy
+Hard Rock Stadium,16,cloudy
+Hard Rock Stadium,17,drizzle
+Hard Rock Stadium,18,drizzle
+Hard Rock Stadium,19,drizzle
+Hard Rock Stadium,20,rainy
+Hard Rock Stadium,21,drizzle
+Hard Rock Stadium,22,drizzle
+Hard Rock Stadium,23,rainy
+Hard Rock Stadium,24,rainy
+Hard Rock Stadium,25,rainy
+Hard Rock Stadium,26,rainy
+Hard Rock Stadium,27,rainy
+Hard Rock Stadium,28,rainy
+Hard Rock Stadium,29,rainy
+Hard Rock Stadium,30,rainy
+Hard Rock Stadium,31,rainy
+Hard Rock Stadium,32,rainy
+Hard Rock Stadium,33,rainy
+Hard Rock Stadium,34,rainy
+Hard Rock Stadium,35,rainy
+Hard Rock Stadium,36,drizzle
+Hard Rock Stadium,37,rainy
+Hard Rock Stadium,38,rainy
+Hard Rock Stadium,39,rainy
+Hard Rock Stadium,40,drizzle
+Hard Rock Stadium,41,rainy
+Hard Rock Stadium,42,drizzle
+Hard Rock Stadium,43,drizzle
+Hard Rock Stadium,44,drizzle
+Hard Rock Stadium,45,drizzle
+Hard Rock Stadium,46,cloudy
+Hard Rock Stadium,47,sunny
+Hard Rock Stadium,48,cloudy
+Hard Rock Stadium,49,cloudy
+Hard Rock Stadium,50,cloudy
+Hard Rock Stadium,51,drizzle
+Hard Rock Stadium,52,drizzle
+Highmark Stadium,1,snowy
+Highmark Stadium,2,snowy
+Highmark Stadium,3,snowy
+Highmark Stadium,4,snowy
+Highmark Stadium,5,cloudy
+Highmark Stadium,6,cloudy
+Highmark Stadium,7,snowy
+Highmark Stadium,8,cloudy
+Highmark Stadium,9,cloudy
+Highmark Stadium,10,drizzle
+Highmark Stadium,11,rainy
+Highmark Stadium,12,snowy
+Highmark Stadium,13,cloudy
+Highmark Stadium,14,snowy
+Highmark Stadium,15,rainy
+Highmark Stadium,16,cloudy
+Highmark Stadium,17,rainy
+Highmark Stadium,18,rainy
+Highmark Stadium,19,drizzle
+Highmark Stadium,20,drizzle
+Highmark Stadium,21,cloudy
+Highmark Stadium,22,rainy
+Highmark Stadium,23,drizzle
+Highmark Stadium,24,drizzle
+Highmark Stadium,25,drizzle
+Highmark Stadium,26,rainy
+Highmark Stadium,27,drizzle
+Highmark Stadium,28,cloudy
+Highmark Stadium,29,rainy
+Highmark Stadium,30,rainy
+Highmark Stadium,31,rainy
+Highmark Stadium,32,rainy
+Highmark Stadium,33,drizzle
+Highmark Stadium,34,drizzle
+Highmark Stadium,35,drizzle
+Highmark Stadium,36,sunny
+Highmark Stadium,37,cloudy
+Highmark Stadium,38,cloudy
+Highmark Stadium,39,rainy
+Highmark Stadium,40,drizzle
+Highmark Stadium,41,drizzle
+Highmark Stadium,42,drizzle
+Highmark Stadium,43,drizzle
+Highmark Stadium,44,cloudy
+Highmark Stadium,45,rainy
+Highmark Stadium,46,drizzle
+Highmark Stadium,47,drizzle
+Highmark Stadium,48,snowy
+Highmark Stadium,49,snowy
+Highmark Stadium,50,rainy
+Highmark Stadium,51,snowy
+Highmark Stadium,52,snowy
+Huntington Bank Field,1,snowy
+Huntington Bank Field,2,snowy
+Huntington Bank Field,3,snowy
+Huntington Bank Field,4,drizzle
+Huntington Bank Field,5,drizzle
+Huntington Bank Field,6,cloudy
+Huntington Bank Field,7,cloudy
+Huntington Bank Field,8,cloudy
+Huntington Bank Field,9,cloudy
+Huntington Bank Field,10,cloudy
+Huntington Bank Field,11,cloudy
+Huntington Bank Field,12,snowy
+Huntington Bank Field,13,cloudy
+Huntington Bank Field,14,rainy
+Huntington Bank Field,15,rainy
+Huntington Bank Field,16,cloudy
+Huntington Bank Field,17,cloudy
+Huntington Bank Field,18,rainy
+Huntington Bank Field,19,cloudy
+Huntington Bank Field,20,cloudy
+Huntington Bank Field,21,drizzle
+Huntington Bank Field,22,rainy
+Huntington Bank Field,23,drizzle
+Huntington Bank Field,24,cloudy
+Huntington Bank Field,25,drizzle
+Huntington Bank Field,26,drizzle
+Huntington Bank Field,27,cloudy
+Huntington Bank Field,28,rainy
+Huntington Bank Field,29,drizzle
+Huntington Bank Field,30,drizzle
+Huntington Bank Field,31,rainy
+Huntington Bank Field,32,rainy
+Huntington Bank Field,33,rainy
+Huntington Bank Field,34,drizzle
+Huntington Bank Field,35,drizzle
+Huntington Bank Field,36,cloudy
+Huntington Bank Field,37,sunny
+Huntington Bank Field,38,cloudy
+Huntington Bank Field,39,rainy
+Huntington Bank Field,40,cloudy
+Huntington Bank Field,41,cloudy
+Huntington Bank Field,42,rainy
+Huntington Bank Field,43,cloudy
+Huntington Bank Field,44,cloudy
+Huntington Bank Field,45,cloudy
+Huntington Bank Field,46,cloudy
+Huntington Bank Field,47,drizzle
+Huntington Bank Field,48,snowy
+Huntington Bank Field,49,snowy
+Huntington Bank Field,50,rainy
+Huntington Bank Field,51,snowy
+Huntington Bank Field,52,drizzle
+Lambeau Field,1,cloudy
+Lambeau Field,2,snowy
+Lambeau Field,3,cloudy
+Lambeau Field,4,cloudy
+Lambeau Field,5,cloudy
+Lambeau Field,6,cloudy
+Lambeau Field,7,cloudy
+Lambeau Field,8,cloudy
+Lambeau Field,9,cloudy
+Lambeau Field,10,snowy
+Lambeau Field,11,cloudy
+Lambeau Field,12,cloudy
+Lambeau Field,13,cloudy
+Lambeau Field,14,snowy
+Lambeau Field,15,drizzle
+Lambeau Field,16,cloudy
+Lambeau Field,17,drizzle
+Lambeau Field,18,cloudy
+Lambeau Field,19,drizzle
+Lambeau Field,20,cloudy
+Lambeau Field,21,drizzle
+Lambeau Field,22,cloudy
+Lambeau Field,23,drizzle
+Lambeau Field,24,cloudy
+Lambeau Field,25,drizzle
+Lambeau Field,26,cloudy
+Lambeau Field,27,rainy
+Lambeau Field,28,rainy
+Lambeau Field,29,cloudy
+Lambeau Field,30,cloudy
+Lambeau Field,31,rainy
+Lambeau Field,32,rainy
+Lambeau Field,33,rainy
+Lambeau Field,34,cloudy
+Lambeau Field,35,rainy
+Lambeau Field,36,cloudy
+Lambeau Field,37,cloudy
+Lambeau Field,38,cloudy
+Lambeau Field,39,cloudy
+Lambeau Field,40,cloudy
+Lambeau Field,41,cloudy
+Lambeau Field,42,cloudy
+Lambeau Field,43,cloudy
+Lambeau Field,44,rainy
+Lambeau Field,45,drizzle
+Lambeau Field,46,cloudy
+Lambeau Field,47,rainy
+Lambeau Field,48,cloudy
+Lambeau Field,49,cloudy
+Lambeau Field,50,cloudy
+Lambeau Field,51,cloudy
+Lambeau Field,52,cloudy
+Levi's Stadium,1,cloudy
+Levi's Stadium,2,drizzle
+Levi's Stadium,3,rainy
+Levi's Stadium,4,cloudy
+Levi's Stadium,5,rainy
+Levi's Stadium,6,cloudy
+Levi's Stadium,7,cloudy
+Levi's Stadium,8,cloudy
+Levi's Stadium,9,rainy
+Levi's Stadium,10,drizzle
+Levi's Stadium,11,sunny
+Levi's Stadium,12,cloudy
+Levi's Stadium,13,drizzle
+Levi's Stadium,14,sunny
+Levi's Stadium,15,cloudy
+Levi's Stadium,16,cloudy
+Levi's Stadium,17,cloudy
+Levi's Stadium,18,sunny
+Levi's Stadium,19,sunny
+Levi's Stadium,20,cloudy
+Levi's Stadium,21,cloudy
+Levi's Stadium,22,sunny
+Levi's Stadium,23,cloudy
+Levi's Stadium,24,sunny
+Levi's Stadium,25,cloudy
+Levi's Stadium,26,sunny
+Levi's Stadium,27,sunny
+Levi's Stadium,28,cloudy
+Levi's Stadium,29,cloudy
+Levi's Stadium,30,cloudy
+Levi's Stadium,31,cloudy
+Levi's Stadium,32,cloudy
+Levi's Stadium,33,cloudy
+Levi's Stadium,34,sunny
+Levi's Stadium,35,cloudy
+Levi's Stadium,36,cloudy
+Levi's Stadium,37,cloudy
+Levi's Stadium,38,cloudy
+Levi's Stadium,39,cloudy
+Levi's Stadium,40,sunny
+Levi's Stadium,41,cloudy
+Levi's Stadium,42,cloudy
+Levi's Stadium,43,cloudy
+Levi's Stadium,44,drizzle
+Levi's Stadium,45,cloudy
+Levi's Stadium,46,cloudy
+Levi's Stadium,47,rainy
+Levi's Stadium,48,cloudy
+Levi's Stadium,49,cloudy
+Levi's Stadium,50,cloudy
+Levi's Stadium,51,cloudy
+Levi's Stadium,52,rainy
+Lincoln Financial Field,1,drizzle
+Lincoln Financial Field,2,rainy
+Lincoln Financial Field,3,snowy
+Lincoln Financial Field,4,cloudy
+Lincoln Financial Field,5,drizzle
+Lincoln Financial Field,6,cloudy
+Lincoln Financial Field,7,cloudy
+Lincoln Financial Field,8,drizzle
+Lincoln Financial Field,9,cloudy
+Lincoln Financial Field,10,drizzle
+Lincoln Financial Field,11,cloudy
+Lincoln Financial Field,12,cloudy
+Lincoln Financial Field,13,cloudy
+Lincoln Financial Field,14,rainy
+Lincoln Financial Field,15,drizzle
+Lincoln Financial Field,16,drizzle
+Lincoln Financial Field,17,cloudy
+Lincoln Financial Field,18,drizzle
+Lincoln Financial Field,19,cloudy
+Lincoln Financial Field,20,cloudy
+Lincoln Financial Field,21,cloudy
+Lincoln Financial Field,22,rainy
+Lincoln Financial Field,23,drizzle
+Lincoln Financial Field,24,cloudy
+Lincoln Financial Field,25,cloudy
+Lincoln Financial Field,26,cloudy
+Lincoln Financial Field,27,cloudy
+Lincoln Financial Field,28,drizzle
+Lincoln Financial Field,29,drizzle
+Lincoln Financial Field,30,drizzle
+Lincoln Financial Field,31,drizzle
+Lincoln Financial Field,32,rainy
+Lincoln Financial Field,33,cloudy
+Lincoln Financial Field,34,cloudy
+Lincoln Financial Field,35,drizzle
+Lincoln Financial Field,36,sunny
+Lincoln Financial Field,37,cloudy
+Lincoln Financial Field,38,drizzle
+Lincoln Financial Field,39,drizzle
+Lincoln Financial Field,40,cloudy
+Lincoln Financial Field,41,cloudy
+Lincoln Financial Field,42,cloudy
+Lincoln Financial Field,43,cloudy
+Lincoln Financial Field,44,cloudy
+Lincoln Financial Field,45,cloudy
+Lincoln Financial Field,46,cloudy
+Lincoln Financial Field,47,drizzle
+Lincoln Financial Field,48,cloudy
+Lincoln Financial Field,49,cloudy
+Lincoln Financial Field,50,cloudy
+Lincoln Financial Field,51,rainy
+Lincoln Financial Field,52,cloudy
+Lucas Oil Stadium,1,cloudy
+Lucas Oil Stadium,2,snowy
+Lucas Oil Stadium,3,snowy
+Lucas Oil Stadium,4,rainy
+Lucas Oil Stadium,5,cloudy
+Lucas Oil Stadium,6,cloudy
+Lucas Oil Stadium,7,cloudy
+Lucas Oil Stadium,8,cloudy
+Lucas Oil Stadium,9,cloudy
+Lucas Oil Stadium,10,rainy
+Lucas Oil Stadium,11,cloudy
+Lucas Oil Stadium,12,cloudy
+Lucas Oil Stadium,13,drizzle
+Lucas Oil Stadium,14,rainy
+Lucas Oil Stadium,15,rainy
+Lucas Oil Stadium,16,cloudy
+Lucas Oil Stadium,17,cloudy
+Lucas Oil Stadium,18,drizzle
+Lucas Oil Stadium,19,drizzle
+Lucas Oil Stadium,20,rainy
+Lucas Oil Stadium,21,drizzle
+Lucas Oil Stadium,22,drizzle
+Lucas Oil Stadium,23,cloudy
+Lucas Oil Stadium,24,cloudy
+Lucas Oil Stadium,25,rainy
+Lucas Oil Stadium,26,cloudy
+Lucas Oil Stadium,27,cloudy
+Lucas Oil Stadium,28,rainy
+Lucas Oil Stadium,29,drizzle
+Lucas Oil Stadium,30,drizzle
+Lucas Oil Stadium,31,rainy
+Lucas Oil Stadium,32,cloudy
+Lucas Oil Stadium,33,rainy
+Lucas Oil Stadium,34,cloudy
+Lucas Oil Stadium,35,drizzle
+Lucas Oil Stadium,36,sunny
+Lucas Oil Stadium,37,sunny
+Lucas Oil Stadium,38,cloudy
+Lucas Oil Stadium,39,rainy
+Lucas Oil Stadium,40,cloudy
+Lucas Oil Stadium,41,sunny
+Lucas Oil Stadium,42,sunny
+Lucas Oil Stadium,43,cloudy
+Lucas Oil Stadium,44,cloudy
+Lucas Oil Stadium,45,rainy
+Lucas Oil Stadium,46,cloudy
+Lucas Oil Stadium,47,drizzle
+Lucas Oil Stadium,48,cloudy
+Lucas Oil Stadium,49,cloudy
+Lucas Oil Stadium,50,rainy
+Lucas Oil Stadium,51,cloudy
+Lucas Oil Stadium,52,drizzle
+Lumen Field,1,drizzle
+Lumen Field,2,rainy
+Lumen Field,3,drizzle
+Lumen Field,4,rainy
+Lumen Field,5,cloudy
+Lumen Field,6,drizzle
+Lumen Field,7,cloudy
+Lumen Field,8,drizzle
+Lumen Field,9,snowy
+Lumen Field,10,drizzle
+Lumen Field,11,rainy
+Lumen Field,12,drizzle
+Lumen Field,13,rainy
+Lumen Field,14,drizzle
+Lumen Field,15,drizzle
+Lumen Field,16,drizzle
+Lumen Field,17,drizzle
+Lumen Field,18,drizzle
+Lumen Field,19,cloudy
+Lumen Field,20,cloudy
+Lumen Field,21,drizzle
+Lumen Field,22,cloudy
+Lumen Field,23,cloudy
+Lumen Field,24,drizzle
+Lumen Field,25,drizzle
+Lumen Field,26,drizzle
+Lumen Field,27,sunny
+Lumen Field,28,sunny
+Lumen Field,29,cloudy
+Lumen Field,30,cloudy
+Lumen Field,31,cloudy
+Lumen Field,32,cloudy
+Lumen Field,33,cloudy
+Lumen Field,34,drizzle
+Lumen Field,35,sunny
+Lumen Field,36,cloudy
+Lumen Field,37,drizzle
+Lumen Field,38,cloudy
+Lumen Field,39,cloudy
+Lumen Field,40,cloudy
+Lumen Field,41,cloudy
+Lumen Field,42,drizzle
+Lumen Field,43,drizzle
+Lumen Field,44,drizzle
+Lumen Field,45,cloudy
+Lumen Field,46,rainy
+Lumen Field,47,drizzle
+Lumen Field,48,cloudy
+Lumen Field,49,cloudy
+Lumen Field,50,cloudy
+Lumen Field,51,rainy
+Lumen Field,52,rainy
+M&T Bank Stadium,1,drizzle
+M&T Bank Stadium,2,rainy
+M&T Bank Stadium,3,snowy
+M&T Bank Stadium,4,rainy
+M&T Bank Stadium,5,cloudy
+M&T Bank Stadium,6,cloudy
+M&T Bank Stadium,7,cloudy
+M&T Bank Stadium,8,cloudy
+M&T Bank Stadium,9,cloudy
+M&T Bank Stadium,10,rainy
+M&T Bank Stadium,11,cloudy
+M&T Bank Stadium,12,cloudy
+M&T Bank Stadium,13,cloudy
+M&T Bank Stadium,14,rainy
+M&T Bank Stadium,15,cloudy
+M&T Bank Stadium,16,drizzle
+M&T Bank Stadium,17,cloudy
+M&T Bank Stadium,18,cloudy
+M&T Bank Stadium,19,drizzle
+M&T Bank Stadium,20,drizzle
+M&T Bank Stadium,21,drizzle
+M&T Bank Stadium,22,rainy
+M&T Bank Stadium,23,drizzle
+M&T Bank Stadium,24,rainy
+M&T Bank Stadium,25,cloudy
+M&T Bank Stadium,26,rainy
+M&T Bank Stadium,27,cloudy
+M&T Bank Stadium,28,rainy
+M&T Bank Stadium,29,drizzle
+M&T Bank Stadium,30,rainy
+M&T Bank Stadium,31,rainy
+M&T Bank Stadium,32,rainy
+M&T Bank Stadium,33,cloudy
+M&T Bank Stadium,34,cloudy
+M&T Bank Stadium,35,rainy
+M&T Bank Stadium,36,cloudy
+M&T Bank Stadium,37,cloudy
+M&T Bank Stadium,38,cloudy
+M&T Bank Stadium,39,rainy
+M&T Bank Stadium,40,drizzle
+M&T Bank Stadium,41,sunny
+M&T Bank Stadium,42,sunny
+M&T Bank Stadium,43,cloudy
+M&T Bank Stadium,44,cloudy
+M&T Bank Stadium,45,cloudy
+M&T Bank Stadium,46,partly_cloudy
+M&T Bank Stadium,47,cloudy
+M&T Bank Stadium,48,cloudy
+M&T Bank Stadium,49,cloudy
+M&T Bank Stadium,50,rainy
+M&T Bank Stadium,51,cloudy
+M&T Bank Stadium,52,cloudy
+Mercedes-Benz Stadium,1,cloudy
+Mercedes-Benz Stadium,2,rainy
+Mercedes-Benz Stadium,3,drizzle
+Mercedes-Benz Stadium,4,rainy
+Mercedes-Benz Stadium,5,cloudy
+Mercedes-Benz Stadium,6,cloudy
+Mercedes-Benz Stadium,7,cloudy
+Mercedes-Benz Stadium,8,cloudy
+Mercedes-Benz Stadium,9,rainy
+Mercedes-Benz Stadium,10,rainy
+Mercedes-Benz Stadium,11,cloudy
+Mercedes-Benz Stadium,12,cloudy
+Mercedes-Benz Stadium,13,cloudy
+Mercedes-Benz Stadium,14,cloudy
+Mercedes-Benz Stadium,15,rainy
+Mercedes-Benz Stadium,16,drizzle
+Mercedes-Benz Stadium,17,cloudy
+Mercedes-Benz Stadium,18,cloudy
+Mercedes-Benz Stadium,19,rainy
+Mercedes-Benz Stadium,20,rainy
+Mercedes-Benz Stadium,21,cloudy
+Mercedes-Benz Stadium,22,cloudy
+Mercedes-Benz Stadium,23,drizzle
+Mercedes-Benz Stadium,24,cloudy
+Mercedes-Benz Stadium,25,cloudy
+Mercedes-Benz Stadium,26,rainy
+Mercedes-Benz Stadium,27,drizzle
+Mercedes-Benz Stadium,28,drizzle
+Mercedes-Benz Stadium,29,rainy
+Mercedes-Benz Stadium,30,rainy
+Mercedes-Benz Stadium,31,drizzle
+Mercedes-Benz Stadium,32,drizzle
+Mercedes-Benz Stadium,33,drizzle
+Mercedes-Benz Stadium,34,sunny
+Mercedes-Benz Stadium,35,drizzle
+Mercedes-Benz Stadium,36,drizzle
+Mercedes-Benz Stadium,37,drizzle
+Mercedes-Benz Stadium,38,cloudy
+Mercedes-Benz Stadium,39,drizzle
+Mercedes-Benz Stadium,40,drizzle
+Mercedes-Benz Stadium,41,sunny
+Mercedes-Benz Stadium,42,cloudy
+Mercedes-Benz Stadium,43,sunny
+Mercedes-Benz Stadium,44,cloudy
+Mercedes-Benz Stadium,45,drizzle
+Mercedes-Benz Stadium,46,drizzle
+Mercedes-Benz Stadium,47,cloudy
+Mercedes-Benz Stadium,48,cloudy
+Mercedes-Benz Stadium,49,cloudy
+Mercedes-Benz Stadium,50,rainy
+Mercedes-Benz Stadium,51,cloudy
+Mercedes-Benz Stadium,52,rainy
+MetLife Stadium,1,snowy
+MetLife Stadium,2,rainy
+MetLife Stadium,3,snowy
+MetLife Stadium,4,drizzle
+MetLife Stadium,5,drizzle
+MetLife Stadium,6,cloudy
+MetLife Stadium,7,snowy
+MetLife Stadium,8,cloudy
+MetLife Stadium,9,rainy
+MetLife Stadium,10,rainy
+MetLife Stadium,11,cloudy
+MetLife Stadium,12,cloudy
+MetLife Stadium,13,drizzle
+MetLife Stadium,14,drizzle
+MetLife Stadium,15,drizzle
+MetLife Stadium,16,cloudy
+MetLife Stadium,17,cloudy
+MetLife Stadium,18,rainy
+MetLife Stadium,19,cloudy
+MetLife Stadium,20,drizzle
+MetLife Stadium,21,cloudy
+MetLife Stadium,22,cloudy
+MetLife Stadium,23,cloudy
+MetLife Stadium,24,cloudy
+MetLife Stadium,25,cloudy
+MetLife Stadium,26,cloudy
+MetLife Stadium,27,drizzle
+MetLife Stadium,28,drizzle
+MetLife Stadium,29,drizzle
+MetLife Stadium,30,cloudy
+MetLife Stadium,31,rainy
+MetLife Stadium,32,rainy
+MetLife Stadium,33,cloudy
+MetLife Stadium,34,cloudy
+MetLife Stadium,35,drizzle
+MetLife Stadium,36,sunny
+MetLife Stadium,37,cloudy
+MetLife Stadium,38,cloudy
+MetLife Stadium,39,drizzle
+MetLife Stadium,40,drizzle
+MetLife Stadium,41,cloudy
+MetLife Stadium,42,drizzle
+MetLife Stadium,43,cloudy
+MetLife Stadium,44,cloudy
+MetLife Stadium,45,cloudy
+MetLife Stadium,46,sunny
+MetLife Stadium,47,cloudy
+MetLife Stadium,48,cloudy
+MetLife Stadium,49,cloudy
+MetLife Stadium,50,rainy
+MetLife Stadium,51,snowy
+MetLife Stadium,52,cloudy
+Nissan Stadium,1,cloudy
+Nissan Stadium,2,snowy
+Nissan Stadium,3,cloudy
+Nissan Stadium,4,drizzle
+Nissan Stadium,5,cloudy
+Nissan Stadium,6,cloudy
+Nissan Stadium,7,cloudy
+Nissan Stadium,8,cloudy
+Nissan Stadium,9,cloudy
+Nissan Stadium,10,rainy
+Nissan Stadium,11,cloudy
+Nissan Stadium,12,cloudy
+Nissan Stadium,13,cloudy
+Nissan Stadium,14,cloudy
+Nissan Stadium,15,rainy
+Nissan Stadium,16,cloudy
+Nissan Stadium,17,cloudy
+Nissan Stadium,18,rainy
+Nissan Stadium,19,drizzle
+Nissan Stadium,20,drizzle
+Nissan Stadium,21,rainy
+Nissan Stadium,22,cloudy
+Nissan Stadium,23,rainy
+Nissan Stadium,24,cloudy
+Nissan Stadium,25,drizzle
+Nissan Stadium,26,rainy
+Nissan Stadium,27,cloudy
+Nissan Stadium,28,cloudy
+Nissan Stadium,29,drizzle
+Nissan Stadium,30,rainy
+Nissan Stadium,31,drizzle
+Nissan Stadium,32,cloudy
+Nissan Stadium,33,cloudy
+Nissan Stadium,34,cloudy
+Nissan Stadium,35,sunny
+Nissan Stadium,36,cloudy
+Nissan Stadium,37,rainy
+Nissan Stadium,38,cloudy
+Nissan Stadium,39,rainy
+Nissan Stadium,40,drizzle
+Nissan Stadium,41,sunny
+Nissan Stadium,42,cloudy
+Nissan Stadium,43,sunny
+Nissan Stadium,44,cloudy
+Nissan Stadium,45,rainy
+Nissan Stadium,46,cloudy
+Nissan Stadium,47,cloudy
+Nissan Stadium,48,drizzle
+Nissan Stadium,49,sunny
+Nissan Stadium,50,rainy
+Nissan Stadium,51,cloudy
+Nissan Stadium,52,cloudy
+Northwest Stadium,1,cloudy
+Northwest Stadium,2,cloudy
+Northwest Stadium,3,snowy
+Northwest Stadium,4,drizzle
+Northwest Stadium,5,drizzle
+Northwest Stadium,6,cloudy
+Northwest Stadium,7,snowy
+Northwest Stadium,8,cloudy
+Northwest Stadium,9,cloudy
+Northwest Stadium,10,rainy
+Northwest Stadium,11,cloudy
+Northwest Stadium,12,cloudy
+Northwest Stadium,13,cloudy
+Northwest Stadium,14,rainy
+Northwest Stadium,15,cloudy
+Northwest Stadium,16,drizzle
+Northwest Stadium,17,cloudy
+Northwest Stadium,18,drizzle
+Northwest Stadium,19,rainy
+Northwest Stadium,20,rainy
+Northwest Stadium,21,drizzle
+Northwest Stadium,22,rainy
+Northwest Stadium,23,drizzle
+Northwest Stadium,24,drizzle
+Northwest Stadium,25,drizzle
+Northwest Stadium,26,rainy
+Northwest Stadium,27,cloudy
+Northwest Stadium,28,drizzle
+Northwest Stadium,29,drizzle
+Northwest Stadium,30,rainy
+Northwest Stadium,31,rainy
+Northwest Stadium,32,rainy
+Northwest Stadium,33,cloudy
+Northwest Stadium,34,cloudy
+Northwest Stadium,35,rainy
+Northwest Stadium,36,cloudy
+Northwest Stadium,37,cloudy
+Northwest Stadium,38,drizzle
+Northwest Stadium,39,rainy
+Northwest Stadium,40,drizzle
+Northwest Stadium,41,sunny
+Northwest Stadium,42,sunny
+Northwest Stadium,43,cloudy
+Northwest Stadium,44,cloudy
+Northwest Stadium,45,cloudy
+Northwest Stadium,46,cloudy
+Northwest Stadium,47,cloudy
+Northwest Stadium,48,cloudy
+Northwest Stadium,49,cloudy
+Northwest Stadium,50,cloudy
+Northwest Stadium,51,drizzle
+Northwest Stadium,52,cloudy
+NRG Stadium,1,cloudy
+NRG Stadium,2,drizzle
+NRG Stadium,3,cloudy
+NRG Stadium,4,rainy
+NRG Stadium,5,cloudy
+NRG Stadium,6,cloudy
+NRG Stadium,7,drizzle
+NRG Stadium,8,cloudy
+NRG Stadium,9,drizzle
+NRG Stadium,10,rainy
+NRG Stadium,11,drizzle
+NRG Stadium,12,cloudy
+NRG Stadium,13,cloudy
+NRG Stadium,14,cloudy
+NRG Stadium,15,rainy
+NRG Stadium,16,drizzle
+NRG Stadium,17,drizzle
+NRG Stadium,18,rainy
+NRG Stadium,19,drizzle
+NRG Stadium,20,cloudy
+NRG Stadium,21,drizzle
+NRG Stadium,22,rainy
+NRG Stadium,23,drizzle
+NRG Stadium,24,drizzle
+NRG Stadium,25,rainy
+NRG Stadium,26,drizzle
+NRG Stadium,27,cloudy
+NRG Stadium,28,rainy
+NRG Stadium,29,rainy
+NRG Stadium,30,rainy
+NRG Stadium,31,drizzle
+NRG Stadium,32,drizzle
+NRG Stadium,33,drizzle
+NRG Stadium,34,cloudy
+NRG Stadium,35,rainy
+NRG Stadium,36,rainy
+NRG Stadium,37,cloudy
+NRG Stadium,38,drizzle
+NRG Stadium,39,sunny
+NRG Stadium,40,sunny
+NRG Stadium,41,sunny
+NRG Stadium,42,sunny
+NRG Stadium,43,cloudy
+NRG Stadium,44,rainy
+NRG Stadium,45,rainy
+NRG Stadium,46,sunny
+NRG Stadium,47,sunny
+NRG Stadium,48,cloudy
+NRG Stadium,49,cloudy
+NRG Stadium,50,cloudy
+NRG Stadium,51,drizzle
+NRG Stadium,52,rainy
+Paycor Stadium,1,snowy
+Paycor Stadium,2,snowy
+Paycor Stadium,3,snowy
+Paycor Stadium,4,drizzle
+Paycor Stadium,5,cloudy
+Paycor Stadium,6,cloudy
+Paycor Stadium,7,cloudy
+Paycor Stadium,8,cloudy
+Paycor Stadium,9,cloudy
+Paycor Stadium,10,rainy
+Paycor Stadium,11,cloudy
+Paycor Stadium,12,cloudy
+Paycor Stadium,13,cloudy
+Paycor Stadium,14,rainy
+Paycor Stadium,15,rainy
+Paycor Stadium,16,cloudy
+Paycor Stadium,17,cloudy
+Paycor Stadium,18,rainy
+Paycor Stadium,19,rainy
+Paycor Stadium,20,drizzle
+Paycor Stadium,21,drizzle
+Paycor Stadium,22,drizzle
+Paycor Stadium,23,drizzle
+Paycor Stadium,24,cloudy
+Paycor Stadium,25,drizzle
+Paycor Stadium,26,cloudy
+Paycor Stadium,27,cloudy
+Paycor Stadium,28,rainy
+Paycor Stadium,29,drizzle
+Paycor Stadium,30,drizzle
+Paycor Stadium,31,rainy
+Paycor Stadium,32,cloudy
+Paycor Stadium,33,rainy
+Paycor Stadium,34,cloudy
+Paycor Stadium,35,cloudy
+Paycor Stadium,36,sunny
+Paycor Stadium,37,sunny
+Paycor Stadium,38,cloudy
+Paycor Stadium,39,drizzle
+Paycor Stadium,40,cloudy
+Paycor Stadium,41,sunny
+Paycor Stadium,42,cloudy
+Paycor Stadium,43,cloudy
+Paycor Stadium,44,cloudy
+Paycor Stadium,45,cloudy
+Paycor Stadium,46,cloudy
+Paycor Stadium,47,drizzle
+Paycor Stadium,48,rainy
+Paycor Stadium,49,snowy
+Paycor Stadium,50,rainy
+Paycor Stadium,51,cloudy
+Paycor Stadium,52,drizzle
+Raymond James Stadium,1,drizzle
+Raymond James Stadium,2,drizzle
+Raymond James Stadium,3,drizzle
+Raymond James Stadium,4,cloudy
+Raymond James Stadium,5,cloudy
+Raymond James Stadium,6,cloudy
+Raymond James Stadium,7,cloudy
+Raymond James Stadium,8,sunny
+Raymond James Stadium,9,drizzle
+Raymond James Stadium,10,drizzle
+Raymond James Stadium,11,cloudy
+Raymond James Stadium,12,cloudy
+Raymond James Stadium,13,cloudy
+Raymond James Stadium,14,cloudy
+Raymond James Stadium,15,cloudy
+Raymond James Stadium,16,cloudy
+Raymond James Stadium,17,cloudy
+Raymond James Stadium,18,cloudy
+Raymond James Stadium,19,drizzle
+Raymond James Stadium,20,drizzle
+Raymond James Stadium,21,cloudy
+Raymond James Stadium,22,cloudy
+Raymond James Stadium,23,drizzle
+Raymond James Stadium,24,rainy
+Raymond James Stadium,25,drizzle
+Raymond James Stadium,26,rainy
+Raymond James Stadium,27,rainy
+Raymond James Stadium,28,rainy
+Raymond James Stadium,29,rainy
+Raymond James Stadium,30,rainy
+Raymond James Stadium,31,rainy
+Raymond James Stadium,32,drizzle
+Raymond James Stadium,33,drizzle
+Raymond James Stadium,34,drizzle
+Raymond James Stadium,35,rainy
+Raymond James Stadium,36,rainy
+Raymond James Stadium,37,rainy
+Raymond James Stadium,38,drizzle
+Raymond James Stadium,39,rainy
+Raymond James Stadium,40,rainy
+Raymond James Stadium,41,rainy
+Raymond James Stadium,42,cloudy
+Raymond James Stadium,43,cloudy
+Raymond James Stadium,44,cloudy
+Raymond James Stadium,45,cloudy
+Raymond James Stadium,46,cloudy
+Raymond James Stadium,47,cloudy
+Raymond James Stadium,48,cloudy
+Raymond James Stadium,49,cloudy
+Raymond James Stadium,50,cloudy
+Raymond James Stadium,51,drizzle
+Raymond James Stadium,52,cloudy
+SoFi Stadium,1,cloudy
+SoFi Stadium,2,cloudy
+SoFi Stadium,3,cloudy
+SoFi Stadium,4,cloudy
+SoFi Stadium,5,cloudy
+SoFi Stadium,6,rainy
+SoFi Stadium,7,cloudy
+SoFi Stadium,8,cloudy
+SoFi Stadium,9,drizzle
+SoFi Stadium,10,cloudy
+SoFi Stadium,11,cloudy
+SoFi Stadium,12,cloudy
+SoFi Stadium,13,cloudy
+SoFi Stadium,14,cloudy
+SoFi Stadium,15,sunny
+SoFi Stadium,16,cloudy
+SoFi Stadium,17,cloudy
+SoFi Stadium,18,cloudy
+SoFi Stadium,19,cloudy
+SoFi Stadium,20,cloudy
+SoFi Stadium,21,cloudy
+SoFi Stadium,22,cloudy
+SoFi Stadium,23,cloudy
+SoFi Stadium,24,cloudy
+SoFi Stadium,25,cloudy
+SoFi Stadium,26,partly_cloudy
+SoFi Stadium,27,cloudy
+SoFi Stadium,28,cloudy
+SoFi Stadium,29,cloudy
+SoFi Stadium,30,partly_cloudy
+SoFi Stadium,31,cloudy
+SoFi Stadium,32,cloudy
+SoFi Stadium,33,cloudy
+SoFi Stadium,34,cloudy
+SoFi Stadium,35,cloudy
+SoFi Stadium,36,cloudy
+SoFi Stadium,37,cloudy
+SoFi Stadium,38,cloudy
+SoFi Stadium,39,cloudy
+SoFi Stadium,40,cloudy
+SoFi Stadium,41,cloudy
+SoFi Stadium,42,cloudy
+SoFi Stadium,43,cloudy
+SoFi Stadium,44,cloudy
+SoFi Stadium,45,sunny
+SoFi Stadium,46,cloudy
+SoFi Stadium,47,cloudy
+SoFi Stadium,48,cloudy
+SoFi Stadium,49,cloudy
+SoFi Stadium,50,cloudy
+SoFi Stadium,51,cloudy
+SoFi Stadium,52,cloudy
+Soldier Field,1,cloudy
+Soldier Field,2,snowy
+Soldier Field,3,snowy
+Soldier Field,4,rainy
+Soldier Field,5,cloudy
+Soldier Field,6,cloudy
+Soldier Field,7,cloudy
+Soldier Field,8,cloudy
+Soldier Field,9,cloudy
+Soldier Field,10,drizzle
+Soldier Field,11,cloudy
+Soldier Field,12,cloudy
+Soldier Field,13,rainy
+Soldier Field,14,rainy
+Soldier Field,15,cloudy
+Soldier Field,16,cloudy
+Soldier Field,17,cloudy
+Soldier Field,18,drizzle
+Soldier Field,19,rainy
+Soldier Field,20,cloudy
+Soldier Field,21,drizzle
+Soldier Field,22,rainy
+Soldier Field,23,cloudy
+Soldier Field,24,cloudy
+Soldier Field,25,rainy
+Soldier Field,26,cloudy
+Soldier Field,27,drizzle
+Soldier Field,28,rainy
+Soldier Field,29,cloudy
+Soldier Field,30,drizzle
+Soldier Field,31,drizzle
+Soldier Field,32,cloudy
+Soldier Field,33,rainy
+Soldier Field,34,cloudy
+Soldier Field,35,drizzle
+Soldier Field,36,sunny
+Soldier Field,37,cloudy
+Soldier Field,38,cloudy
+Soldier Field,39,drizzle
+Soldier Field,40,cloudy
+Soldier Field,41,cloudy
+Soldier Field,42,sunny
+Soldier Field,43,cloudy
+Soldier Field,44,cloudy
+Soldier Field,45,rainy
+Soldier Field,46,cloudy
+Soldier Field,47,cloudy
+Soldier Field,48,cloudy
+Soldier Field,49,cloudy
+Soldier Field,50,cloudy
+Soldier Field,51,cloudy
+Soldier Field,52,drizzle
+State Farm Stadium,1,cloudy
+State Farm Stadium,2,cloudy
+State Farm Stadium,3,cloudy
+State Farm Stadium,4,rainy
+State Farm Stadium,5,cloudy
+State Farm Stadium,6,rainy
+State Farm Stadium,7,cloudy
+State Farm Stadium,8,cloudy
+State Farm Stadium,9,sunny
+State Farm Stadium,10,cloudy
+State Farm Stadium,11,drizzle
+State Farm Stadium,12,drizzle
+State Farm Stadium,13,cloudy
+State Farm Stadium,14,cloudy
+State Farm Stadium,15,sunny
+State Farm Stadium,16,cloudy
+State Farm Stadium,17,sunny
+State Farm Stadium,18,sunny
+State Farm Stadium,19,sunny
+State Farm Stadium,20,cloudy
+State Farm Stadium,21,sunny
+State Farm Stadium,22,sunny
+State Farm Stadium,23,cloudy
+State Farm Stadium,24,sunny
+State Farm Stadium,25,sunny
+State Farm Stadium,26,cloudy
+State Farm Stadium,27,sunny
+State Farm Stadium,28,partly_cloudy
+State Farm Stadium,29,cloudy
+State Farm Stadium,30,cloudy
+State Farm Stadium,31,cloudy
+State Farm Stadium,32,cloudy
+State Farm Stadium,33,partly_cloudy
+State Farm Stadium,34,partly_cloudy
+State Farm Stadium,35,cloudy
+State Farm Stadium,36,sunny
+State Farm Stadium,37,sunny
+State Farm Stadium,38,sunny
+State Farm Stadium,39,sunny
+State Farm Stadium,40,sunny
+State Farm Stadium,41,sunny
+State Farm Stadium,42,sunny
+State Farm Stadium,43,cloudy
+State Farm Stadium,44,cloudy
+State Farm Stadium,45,sunny
+State Farm Stadium,46,sunny
+State Farm Stadium,47,cloudy
+State Farm Stadium,48,cloudy
+State Farm Stadium,49,sunny
+State Farm Stadium,50,cloudy
+State Farm Stadium,51,cloudy
+State Farm Stadium,52,cloudy
+U.S. Bank Stadium,1,cloudy
+U.S. Bank Stadium,2,snowy
+U.S. Bank Stadium,3,cloudy
+U.S. Bank Stadium,4,cloudy
+U.S. Bank Stadium,5,cloudy
+U.S. Bank Stadium,6,cloudy
+U.S. Bank Stadium,7,cloudy
+U.S. Bank Stadium,8,cloudy
+U.S. Bank Stadium,9,cloudy
+U.S. Bank Stadium,10,cloudy
+U.S. Bank Stadium,11,cloudy
+U.S. Bank Stadium,12,snowy
+U.S. Bank Stadium,13,cloudy
+U.S. Bank Stadium,14,snowy
+U.S. Bank Stadium,15,cloudy
+U.S. Bank Stadium,16,cloudy
+U.S. Bank Stadium,17,rainy
+U.S. Bank Stadium,18,rainy
+U.S. Bank Stadium,19,cloudy
+U.S. Bank Stadium,20,cloudy
+U.S. Bank Stadium,21,rainy
+U.S. Bank Stadium,22,rainy
+U.S. Bank Stadium,23,cloudy
+U.S. Bank Stadium,24,rainy
+U.S. Bank Stadium,25,rainy
+U.S. Bank Stadium,26,rainy
+U.S. Bank Stadium,27,rainy
+U.S. Bank Stadium,28,drizzle
+U.S. Bank Stadium,29,drizzle
+U.S. Bank Stadium,30,sunny
+U.S. Bank Stadium,31,drizzle
+U.S. Bank Stadium,32,cloudy
+U.S. Bank Stadium,33,cloudy
+U.S. Bank Stadium,34,cloudy
+U.S. Bank Stadium,35,rainy
+U.S. Bank Stadium,36,cloudy
+U.S. Bank Stadium,37,cloudy
+U.S. Bank Stadium,38,drizzle
+U.S. Bank Stadium,39,sunny
+U.S. Bank Stadium,40,cloudy
+U.S. Bank Stadium,41,cloudy
+U.S. Bank Stadium,42,cloudy
+U.S. Bank Stadium,43,cloudy
+U.S. Bank Stadium,44,cloudy
+U.S. Bank Stadium,45,cloudy
+U.S. Bank Stadium,46,cloudy
+U.S. Bank Stadium,47,cloudy
+U.S. Bank Stadium,48,cloudy
+U.S. Bank Stadium,49,cloudy
+U.S. Bank Stadium,50,cloudy
+U.S. Bank Stadium,51,cloudy
+U.S. Bank Stadium,52,cloudy
