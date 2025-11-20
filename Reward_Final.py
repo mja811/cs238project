@@ -176,7 +176,7 @@ def extract_policy(Q, reward_func, label):
 
     df = pd.DataFrame(cumulative_rewards)
     df.to_csv(f"{label}.csv", index=False)
-    print(f"✅ Saved {label}.csv")
+    print(f"Saved {label}.csv")
     return best_tour, cum_reward
 
 best_reward_tour, reward_total = extract_policy(Q_reward, total_reward, "policy_reward_based")
@@ -194,3 +194,4 @@ print("\nOptimal Financial-based Tour:")
 for i, s in enumerate(best_financial_tour, start=1):
     print(f"Week {i}: {s}")
 print(f"\nTotal Financial Profit: {financial_total:,.2f}")
+
